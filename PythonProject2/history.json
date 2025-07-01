@@ -1,0 +1,62 @@
+[
+     {
+          "food": "apple",
+          "gramaj": 100.0,
+          "kcal": 52.0
+     },
+     {
+          "food": "bread",
+          "gramaj": 100.0,
+          "kcal": 146.0
+     },
+     {
+          "food": "salmon",
+          "gramaj": 100.0,
+          "kcal": 139.0
+     },
+     {
+          "food": "raw fish",
+          "gramaj": 100.0,
+          "kcal": 94.0
+     },
+     {
+          "food": "egg",
+          "gramaj": 200.0,
+          "kcal": 1026.0
+     },
+     {
+          "food": "salmon",
+          "gramaj": 200.0,
+          "kcal": 278.0
+     },
+     {
+          "food": "avocado",
+          "gramaj": 200.0,
+          "kcal": 854.0
+     },
+     {
+          "food": "salmon",
+          "gramaj": 200.0,
+          "kcal": 278.0
+     },
+     {
+          "food": "salmon",
+          "gramaj": 50.0,
+          "kcal": 69.5
+     },
+     {
+          "food": "salmon",
+          "gramaj": 20.0,
+          "kcal": 27.8
+     },
+     {
+          "food": "salmon",
+          "gramaj": 50.0,
+          "kcal": 69.5
+     },
+     {
+          "food": "salmon",
+          "gramaj": 50.0,
+          "kcal": 69.5
+     }
+]
